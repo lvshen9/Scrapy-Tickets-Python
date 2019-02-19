@@ -7,33 +7,33 @@ github地址：[Scrapy-Tickets-Python](https://github.com/lvshen9/Scrapy-Tickets
 
 这是一个爬取火车票的python代码，先上效果图：
 
-![](https://dn-coding-net-production-file.codehub.cn/74e527d0-1576-11e9-ab3e-530055641479.png?attname=%E6%9F%A5%E8%AF%A2%E7%BB%93%E6%9E%9C.png&e=1547197014&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:hrdFwnu_NcVdwMnUrZTHWPcpg0k=)
+![](https://s2.ax1x.com/2019/01/17/kp1bXn.png)
 
 #### 工程目录
 
-![](https://dn-coding-net-production-file.codehub.cn/74ea09d0-1576-11e9-ab3e-530055641479.png?attname=1.%E5%B7%A5%E7%A8%8B%E7%9B%AE%E5%BD%95.png&e=1547197014&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:VvyqmYH2uFQBub_Us0La-LMITDk=)
+![](https://s2.ax1x.com/2019/01/17/kp17lj.png)
 
 如上图：color_set.py是用来设置字体颜色的。
 
-![](https://dn-coding-net-production-file.codehub.cn/74e241a0-1576-11e9-ab3e-530055641479.png?attname=2.%E8%A1%A8%E6%A0%BC%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE.png&e=1547197014&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:hRF_8Ly3TDexNUbTJBveETQIC1M=)
+![](https://s2.ax1x.com/2019/01/17/kp1H6s.png)
 
 里面设置了红色和黄色的字体。
 
 Creat_set.py是用来创建字典的。
 
-![](https://dn-coding-net-production-file.codehub.cn/74e5c410-1576-11e9-ab3e-530055641479.png?attname=%E8%BD%A6%E7%AB%99%E5%AD%97%E5%85%B8.png&e=1547197014&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:gdrNGVuvJBx095LObDDHOgXv1mY=)
+![](https://s2.ax1x.com/2019/01/17/kp1Lmq.png)
 
 在浏览器里面可以输入上面那串url。
 
-![](https://dn-coding-net-production-file.codehub.cn/9d58e110-1577-11e9-ab3e-530055641479.png?attname=%E5%AD%97%E5%85%B8%E6%BA%90.png&e=1547197511&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:Hd-GpRs1TF12Qc-F-Jv-EOWcPiQ=)
+![](https://s2.ax1x.com/2019/01/17/kp1xtU.png)
 
 经过Creat_station.py处理，结果数据在station.py文件中
 
-![](https://dn-coding-net-production-file.codehub.cn/74e6d580-1576-11e9-ab3e-530055641479.png?attname=%E5%A4%84%E7%90%86%E5%90%8E%E7%9A%84%E5%AD%97%E5%85%B8.png&e=1547197014&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:vFadCKD8f9tIbAsD14PRLUDceG4=)
+![](https://s2.ax1x.com/2019/01/17/kp1O00.png)
 
 下面是信息初始化的代码。
 
-![](https://dn-coding-net-production-file.codehub.cn/74e8f860-1576-11e9-ab3e-530055641479.png?attname=%E4%BF%A1%E6%81%AF%E5%88%9D%E5%A7%8B%E5%8C%96.png&e=1547197014&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:7dUkd38R73jGJUp7HoO8-cMkUqY=)
+![](https://s2.ax1x.com/2019/01/17/kp1vkT.png)
 
 代码中的url可能会变化，需要作相应的调整。
 
@@ -45,7 +45,7 @@ Creat_set.py是用来创建字典的。
 
 最后就是最前面的结果啦
 
-![](https://dn-coding-net-production-file.codehub.cn/74e527d0-1576-11e9-ab3e-530055641479.png?attname=%E6%9F%A5%E8%AF%A2%E7%BB%93%E6%9E%9C.png&e=1547197014&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:hrdFwnu_NcVdwMnUrZTHWPcpg0k=)
+![](https://s2.ax1x.com/2019/01/17/kp1bXn.png)
 
 年底了，不知各位有没有抢到票呢，反正我是抢到了😀
 
