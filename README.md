@@ -39,7 +39,7 @@ Creat_set.py是用来创建字典的。
 
 然后是我们主体的程序。
 
-![](https://dn-coding-net-production-file.codehub.cn/74e798d0-1576-11e9-ab3e-530055641479.png?attname=%E6%98%BE%E7%A4%BA%E7%A5%A8%E4%BB%B7.png&e=1547197014&token=goE9CtaiT5YaIP6ZQ1nAafd_C1Z_H2gVP8AwuC-5:pHYfbjq86Rx_BxgyVtctBZWJLf4=)
+![](https://s2.ax1x.com/2019/01/17/kp1X7V.png)
 
 显示票价及相关信息
 
